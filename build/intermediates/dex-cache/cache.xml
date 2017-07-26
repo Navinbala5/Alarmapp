@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\elam\.android\build-cache\5a264a9ba3a77a38e0c1ee43fd3fe0895d893307\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="C:\Users\elam\AndroidStudioProjects\Alarmapp\app\build\intermediates\pre-dexed\debug\classes_5e0f7d333f23b280d40d0c14ab4d7051ad191e3d.jar" />
+    </item>
+
+</items>
